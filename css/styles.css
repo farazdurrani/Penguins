@@ -1,0 +1,141 @@
+body{
+    font-family: calibri, arial, sans-serif;
+    background-color: aqua;
+}
+
+*{
+	padding: 0;
+	margin: 0;
+}
+
+.clear{
+	clear: both;
+}
+
+#fti {
+    content: url('../images/penguin_title.png');
+    margin-left: 15%;
+}
+
+#p0 {
+    float: left;
+    color: transparent;
+}
+
+#p1 {
+    float: left;
+    content: url('../images/mound_1.png');
+}
+
+#p1:hover {
+    content: url('../images/mound_1_hover.png');
+}
+
+#p1:active {
+    content: url('../images/penguin_1.png');
+}
+
+#p2 {
+    float: left;
+    content: url('../images/mound_2.png');
+}
+
+#p2:hover {
+    content: url('../images/mound_2_hover.png');
+}
+
+#p2:active {
+    content: url('../images/penguin_2.png');
+}
+
+#p3 {
+    float: left;
+    content: url('../images/mound_3.png');
+}
+
+#p3:hover {
+    content: url('../images/mound_3_hover.png');
+}
+
+#p3:active {
+    content: url('../images/penguin_3.png');
+}
+
+#p4 {
+    float: left;
+    content: url('../images/mound_4.png');
+}
+
+#p4:hover {
+    content: url('../images/mound_4_hover.png');
+}
+
+#p4:active {
+    content: url('../images/penguin_4.png');
+}
+
+#p5 {
+    float: left;
+    content: url('../images/mound_5.png');
+}
+
+#p5:hover {
+    content: url('../images/mound_5_hover.png');
+}
+
+#p5:active {
+    content: url('../images/penguin_5.png');
+}
+
+
+#p6 {
+    float: left;
+    content: url('../images/mound_6.png');
+}
+
+#p6:hover {
+    content: url('../images/mound_6_hover.png');
+}
+
+#p6:active {
+    content: url('../images/penguin_6.png');
+}
+
+#p7 {
+    float: left;
+    content: url('../images/mound_7.png');
+}
+
+#p7:hover {
+    content: url('../images/mound_7_hover.png');
+}
+
+#p7:active {
+    content: url('../images/penguin_7.png');
+}
+
+#p8 {
+    float: left;
+    content: url('../images/mound_8.png');
+}
+
+#p8:hover {
+    content: url('../images/mound_8_hover.png');
+}
+
+#p8:active {
+    content: url('../images/penguin_8.png');
+}
+
+#p9 {
+    float: left;
+    content: url('../images/mound_9.png');
+}
+
+#p9:hover {
+    content: url('../images/mound_9_hover.png');
+}
+
+#p9:active {
+    content: url('../images/yeti.png');
+}
